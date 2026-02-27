@@ -130,7 +130,7 @@ Backdoor design to hold the balls up. Servo would activate the door to move down
 </p>
 
 <p align="center">
-  <i>Figure 5: Main electronic comoponent of first prototype</i>
+  <i>Figure 5: Main electronic comoponent of first prototype located under prototype</i>
 </p>
 <!-- -->
 

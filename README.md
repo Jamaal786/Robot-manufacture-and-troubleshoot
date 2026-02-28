@@ -13,7 +13,7 @@ This was a group project which simulated a warman competition. We worked in grou
 - Inventor
 - Arduino
 - Soldering
-- Laer cutting
+- Laser cutting
 - wiring and Electronics knowledge
 - Detailed designing
 
@@ -33,7 +33,7 @@ The second prototype idea changed where instead of the robot holding the balls w
 For the second prototype, my roles were : 
 - Soldering
 - Wiring and organisation of wires
-- troubleshooting
+- Troubleshooting
 <br>
 
 My role changed as we realised where our groups strengths were after the first prototype.
